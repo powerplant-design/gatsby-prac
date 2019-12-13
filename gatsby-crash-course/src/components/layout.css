@@ -42,9 +42,12 @@ template {
 /* LINK STYLING */
 a {
   text-decoration: none;
-  color: aquamarine;
   background-color: transparent;
+  color: blue;
   -webkit-text-decoration-skip: objects;
+}
+.menu a {
+  color: aquamarine;
 }
 a:active,
 a:hover {
@@ -626,11 +629,13 @@ pre tt:after {
 }
 
 /* * MY STYLE CODE STARTS */
-
+code {
+  font-size: 12px;
+}
 footer{
   background: #1c1c1c;
   color: white;
-  position: absolute;
+  position: fixed;
   bottom: 0;
   left: 0;
   width: 100%

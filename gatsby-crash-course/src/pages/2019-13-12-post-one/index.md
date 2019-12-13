@@ -5,4 +5,4 @@ title: "MY FIRST GATSBY BLOG POST"
 author: "rzzldzzl.design"
 ---
 
-Tis is my very **first blog** post in *Gatsby*
+This is my very **first blog** post in *Gatsby*
